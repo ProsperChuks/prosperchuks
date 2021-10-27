@@ -7,7 +7,7 @@ I've been a Python Developer for 5 years and a Java Engineer for 3 years, I've b
 I've performed analysis on datasets, I've also built Machine Learning models to solve Regression and Classification tasks. 
 I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
 I enjoy connecting with people and also open to Job Offers. You can reach out to me via email
-📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail'>](mailto:prosperc40@gmail.com)
+📫 How to reach me: [<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
 <!--
 **ProsperChuks/prosperchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
