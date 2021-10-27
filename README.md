@@ -1,6 +1,13 @@
-### Hi there 👋
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prosper-chuks/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
+
+### Hi there 👋
+I'm Prosper, a goal-oriented full-stack Software Engineer, with a degree and a very strong passion for Machine Learning.
+I've been a Python Developer for 5 years and a Java Engineer for 3 years, I've built web apps with struts, spring and hibernate and also using Django
+I've performed analysis on datasets, I've also built Machine Learning models to solve Regression and Classification tasks. 
+I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
+I enjoy connecting with people and also open to Job Offers. You can reach out to me via email
+📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail'>](mailto:prosperc40@gmail.com)
 
 <!--
 **ProsperChuks/prosperchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
