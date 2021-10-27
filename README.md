@@ -18,17 +18,18 @@ ___
 </a>
 
 <a href="https://github.com/prosperchuks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=prosperchuks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prosper's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=prosperchuks&theme=tokyonight&show_icons=true&&line_height=40&count_private=true" alt="Prosper's GitHub Stats" />
 </a>
 
 <a href="https://github.com/prosperchuks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperchuks&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperchuks&theme=tokyonight&show_icons=true" />
 </a>
 
 ## Top Skills
-[![Python Badge](https://img.shields.io/badge/-python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
+
+[![Python Badge](https://img.shields.io/badge/-python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#)
 [![Flask Badge](https://img.shields.io/badge/-Flask-3C873A?style=for-the-badge&labelColor=black&logo=flask&logoColor=3C873A)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&labelColor=black&logo=django&logoColor=F0DB4F)](#)
+[![Django Badge](https://img.shields.io/badge/-django-61DBFB?style=for-the-badge&labelColor=black&logo=django&logoColor=61DBFB)](#)
 
 <!--
 **ProsperChuks/prosperchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
