@@ -8,7 +8,6 @@ I've performed analysis on datasets, I've also built Machine Learning models to 
 I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
 I enjoy connecting with people and also open to Job Offers. You can reach out to me via email [<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
-<!-- Pinned Repositories -- >
 
 <a href="https://github.com/ProsperChuks/Amazon-Deforestation-from-Space">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=Amazon-Deforestation-from-Space&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -18,7 +17,6 @@ I enjoy connecting with people and also open to Job Offers. You can reach out to
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=Covid-19-Data-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- GitHub Stats -- >
 
 <a href="https://github.com/prosperchuks">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=prosperchuks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prosper's GitHub Stats" />
