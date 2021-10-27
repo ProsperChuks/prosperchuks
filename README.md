@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prosper-chuks/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
 
 <!--
 **ProsperChuks/prosperchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
