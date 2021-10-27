@@ -17,7 +17,6 @@ ___
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=classification-on-the-MNIST-database&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-</br></br>
 <a href="https://github.com/prosperchuks">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=prosperchuks&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prosper's GitHub Stats" />
 </a>
@@ -26,6 +25,10 @@ ___
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperchuks&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+## Top Skills
+[![Python Badge](https://img.shields.io/badge/-python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
+[![Flask Badge](https://img.shields.io/badge/-Flask-3C873A?style=for-the-badge&labelColor=black&logo=flask&logoColor=3C873A)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&labelColor=black&logo=django&logoColor=F0DB4F)](#)
 
 <!--
 **ProsperChuks/prosperchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
