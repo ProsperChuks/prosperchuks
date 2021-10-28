@@ -1,8 +1,11 @@
-[![Prosper's GitHub Banner](banner_image.gif)]
+<a href='https://github.com/prosperchuks'>
+  <img src="banner_image.gif" alt="banner" width="1000"/>
+</a>
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prosper-chuks/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/oniicyborg)
 
 ### Hi there 👋
 I'm Prosper, a goal-oriented full-stack Software Engineer, with a degree and a very strong passion for Machine Learning.
