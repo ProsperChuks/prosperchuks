@@ -12,7 +12,7 @@ I'm Prosper, a goal-oriented full-stack Software Engineer, with a degree and a v
 I've been a Python Developer for 5 years and a Java Engineer for 3 years, I've built web apps with struts, spring and hibernate and also using Django
 I've performed analysis on datasets, I've also built Machine Learning models to solve Regression and Classification tasks. 
 I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
-I enjoy connecting with people and also open to Job Offers. You can reach out to me via email [<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
+I enjoy connecting with New people and I'm also open to Job Offers. You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
 ___
 <a href="https://github.com/ProsperChuks/Amazon-Deforestation-from-Space">
