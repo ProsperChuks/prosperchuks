@@ -14,7 +14,10 @@ I've performed analysis on datasets, I've also built Machine Learning models to 
 I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
 I enjoy connecting with New people and I'm also open to Job Offers. You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
-___
+##
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosperchuks&theme=onedark&row=1" alt="prosperchuks" /></a> </p>
+
+##
 <a href="https://github.com/ProsperChuks/Amazon-Deforestation-from-Space">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=Amazon-Deforestation-from-Space&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
