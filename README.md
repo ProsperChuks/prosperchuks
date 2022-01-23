@@ -2,7 +2,7 @@
   <img src="banner_image.gif" alt="banner" width="1000"/>
 </a>
 
-[]<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosperchuks&label=Profile%20views&color=0e75b6&style=flat" alt="prosperchuks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosperchuks&label=Profile%20views&color=0e75b6&style=flat" alt="prosperchuks" /> </p>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/prosper-chuks/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/oniicyborg)
