@@ -7,7 +7,8 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/oniicyborg)
 
-### Hi there 👋Highly accomplished and results-driven professional with expertise in data mining, machine learning, and web development. Proven ability to work independently and deliver exceptional results in roles across diverse industries. Committed to continuous learning and staying abreast of emerging technologies to drive innovation in data science and technology projects. Known for translating ideas into tangible solutions that make a significant impact.
+### 
+Hi there 👋Highly accomplished and results-driven professional with expertise in data mining, machine learning, and web development. Proven ability to work independently and deliver exceptional results in roles across diverse industries. Committed to continuous learning and staying abreast of emerging technologies to drive innovation in data science and technology projects. Known for translating ideas into tangible solutions that make a significant impact.
 
 You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
