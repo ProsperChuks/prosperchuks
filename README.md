@@ -7,12 +7,9 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/prosperchuks)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/oniicyborg)
 
-### Hi there 👋
-I'm Prosper, a goal-oriented full-stack Software Engineer, with a degree and a very strong passion for Machine Learning.
-I've been a Python Developer for 5 years and a Java Engineer for 3 years, I've built web apps with struts, spring and hibernate and also using Django
-I've performed analysis on datasets, I've also built Machine Learning models to solve Regression and Classification tasks. 
-I've deployed models using flask to Google Cloud Platform, plus I've worked with teams before to Collaborate on Projects.
-I enjoy connecting with New people and I'm also open to Job Offers. You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
+### Hi there 👋Highly accomplished and results-driven professional with expertise in data mining, machine learning, and web development. Proven ability to work independently and deliver exceptional results in roles across diverse industries. Committed to continuous learning and staying abreast of emerging technologies to drive innovation in data science and technology projects. Known for translating ideas into tangible solutions that make a significant impact.
+
+You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/badge/gmail-informational?style=flat&logo=gmail&logoColor=red&color=ffffff' alt='gmail'>](mailto:prosperc40@gmail.com)
 
 ## Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosperchuks&theme=onedark&row=1" alt="prosperchuks" /></a> </p>
