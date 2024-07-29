@@ -15,15 +15,6 @@ You can reach out to me via email&nbsp;&nbsp;[<img src='https://img.shields.io/b
 ## Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosperchuks&theme=onedark&row=1" alt="prosperchuks" /></a> </p>
 
-## Top Repos
-<a href="https://github.com/ProsperChuks/Amazon-Deforestation-from-Space">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=Amazon-Deforestation-from-Space&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-&nbsp;
-<a href="https://github.com/ProsperChuks/classification-on-the-MNIST-database">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prosperchuks&repo=classification-on-the-MNIST-database&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 ## Stats
 <a href="https://github.com/prosperchuks">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=prosperchuks&theme=tokyonight&show_icons=true&&line_height=40&count_private=true" alt="Prosper's GitHub Stats" />
